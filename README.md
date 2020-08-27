@@ -1,5 +1,13 @@
 # RabbitMq
+### Descripción
 Instalación e implementación de protocolos para enviar y leer mensajes en RabbitMq 
 
-# Instalación en NodeJs
+### Tecnologías
+- RabbitMQ
+- Protocolo Stomp
+- Protocolo WebSocket
+- Docker Compose
+
+
+#### Instalación en NodeJs
 npm install
